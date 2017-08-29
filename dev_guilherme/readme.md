@@ -1,10 +1,14 @@
 # LNLS - Desafio 5
 
-## Documentation
+## FILES
 
-The system documentation for the tests, and the test diagrams are the below files on the repository root:
-* **Plano_de_Testes-Desafio 5.pdf**
-* **RFFE-and-ADC_Diagram.pdf**
+* **ADC_Omnysis_Test -** Repository with the code to test the ADC Board
+
+* **RFFE_Omnysis_Test -** Repository with the code to test the RFFE Board
+
+* **Plano_de_Testes-Desafio 5.pdf -** Test plan walkthrough
+
+* **RFFE-and-ADC_Diagram.pdf -** Test plan setup diagrams
 
 ## Libraries
 
